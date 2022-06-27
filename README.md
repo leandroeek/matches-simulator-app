@@ -4,4 +4,4 @@ Atividade curso DIO App android nativo simulador de partidas. Este repositorio f
 implementacoes realizadas durante os seguintes conteudos/videos:
 
 1. Desenvolvimento Mobile Nativo para Android
-    - [Release/desenvolvimento-mobile-nativo-para-android]([https://github.com/leandroeek/matches-simulator-app](https://github.com/leandroeek/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android))
+    - [Release/desenvolvimento-mobile-nativo-para-android](https://github.com/leandroeek/matches-simulator-app](https://github.com/leandroeek/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
